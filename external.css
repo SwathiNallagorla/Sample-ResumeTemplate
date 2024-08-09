@@ -1,0 +1,17 @@
+.outer{
+    width: 700px;
+    height: 100%;
+    margin: 0px auto;
+    background-color: #fff;
+}
+
+body{
+    background-color:#fff;
+    line-height: 30px;
+}
+h1{
+    background-color: #fff;font-style: italic;
+}
+h2{
+    background-color: darkkhaki;font-style: oblique;
+}
